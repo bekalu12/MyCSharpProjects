@@ -1,0 +1,6 @@
+C:\Users\bekal\Desktop\C#Projects\Test1\Test1\bin\Release\Test1.exe.config
+C:\Users\bekal\Desktop\C#Projects\Test1\Test1\bin\Release\Test1.exe
+C:\Users\bekal\Desktop\C#Projects\Test1\Test1\bin\Release\Test1.pdb
+C:\Users\bekal\Desktop\C#Projects\Test1\Test1\obj\Release\Test1.csproj.CoreCompileInputs.cache
+C:\Users\bekal\Desktop\C#Projects\Test1\Test1\obj\Release\Test1.exe
+C:\Users\bekal\Desktop\C#Projects\Test1\Test1\obj\Release\Test1.pdb
